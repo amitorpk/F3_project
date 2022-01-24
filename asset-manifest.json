@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/F3_project/static/css/main.da2594d1.chunk.css",
+    "main.js": "/F3_project/static/js/main.5baba173.chunk.js",
+    "main.js.map": "/F3_project/static/js/main.5baba173.chunk.js.map",
+    "runtime-main.js": "/F3_project/static/js/runtime-main.f55d5a1b.js",
+    "runtime-main.js.map": "/F3_project/static/js/runtime-main.f55d5a1b.js.map",
+    "static/js/2.26722225.chunk.js": "/F3_project/static/js/2.26722225.chunk.js",
+    "static/js/2.26722225.chunk.js.map": "/F3_project/static/js/2.26722225.chunk.js.map",
+    "index.html": "/F3_project/index.html",
+    "static/css/main.da2594d1.chunk.css.map": "/F3_project/static/css/main.da2594d1.chunk.css.map",
+    "static/js/2.26722225.chunk.js.LICENSE.txt": "/F3_project/static/js/2.26722225.chunk.js.LICENSE.txt",
+    "static/media/bmi.11696496.jpg": "/F3_project/static/media/bmi.11696496.jpg",
+    "static/media/calc.96aabca4.jpg": "/F3_project/static/media/calc.96aabca4.jpg",
+    "static/media/Form.css": "/F3_project/static/media/male.d92f118a.png",
+    "static/media/navbar.css": "/F3_project/static/media/f3logo.412f126e.jpeg",
+    "static/media/fitness.806b60af.jpg": "/F3_project/static/media/fitness.806b60af.jpg",
+    "static/media/nutrition.b534ad2b.jpg": "/F3_project/static/media/nutrition.b534ad2b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f55d5a1b.js",
+    "static/js/2.26722225.chunk.js",
+    "static/css/main.da2594d1.chunk.css",
+    "static/js/main.5baba173.chunk.js"
+  ]
+}
